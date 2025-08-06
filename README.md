@@ -5,3 +5,6 @@ Repository for Leetcode Solutions
 |------|---------------------------|-------------------------------------|------------|
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./algorithms/strings/merge_strings_alternately.py) | Easy |
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](./algorithms/strings/fizz_buzz.py) | Easy |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | [Python](./algorithms/array/kids-with-greatest-number-of-candies.py) | Easy|
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | [Python](./algorithms/strings/greatest-common-divisor-of-strings.py) | Easy |
+

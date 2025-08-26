@@ -17,3 +17,4 @@ Repository for Leetcode Solutions
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Python](https://github.com/DarrenClarke19/leetcode-solutions/blob/main/algorithms/strings/is-subsequence.py) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Python](https://github.com/DarrenClarke19/leetcode-solutions/blob/main/algorithms/arrays/container-with-most-water.py) | Medium
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | [Python](https://github.com/DarrenClarke19/leetcode-solutions/blob/main/algorithms/arrays/max-number-of-k-sum-pairs.py) | Medium |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | [Python](https://github.com/DarrenClarke19/leetcode-solutions/blob/main/algorithms/strings/string-compression.py) | Medium | 
